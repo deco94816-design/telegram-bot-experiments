@@ -1,9 +1,11 @@
-# Lola Hyper
+# Telegram Bot Experiments
 
-A Telegram Bot / Utility project created by **Amex**.
+<p align="center">
+  <b>Sandbox repository for experimental Telegram bot concepts and architectural tests.</b>
+</p>
 
 ## 🚀 Overview
-This repository contains automated tools and systems designed for high-performance messaging and bot interactions.
+This project is part of a professional portfolio of high-performance Telegram bots and web applications. It demonstrates advanced integrations, modern frameworks, and robust architecture.
 
 ## 📫 Contact
-Reach out to me on **[Telegram (@exiff)](https://t.me/exiff)**.
+Developed and maintained by **[Amex](https://t.me/exiff)**.
